@@ -23,6 +23,8 @@
  
 """
 
+# TODO: put all bot-params in a .env file, use it with "dotenv" BOT_TOKEN = os.getenv("BOT_TOKEN")
+
 # --- bot params ----------------------------------------------------------------------------
 
 BOT_TOKEN = "YOUR_BOT_TOKEN_GOES_HERE"  # IMPORTANT - Put your Discord bot token here
